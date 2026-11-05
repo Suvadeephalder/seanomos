@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+        <title>Advance python topics</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1446411241519774"
+     crossorigin="anonymous"></script>
+        <meta name="keywords" content="advance python topics, python feature, Custom Bytecode Manipulation, Context Managers, AST Module, Advanced Metaprogramming & Decorators, Data Descriptors, Embedded Systems and Microcontrollers">
+        <meta name="description" content="Learn advance python topics  in depth 1. Custom Bytecode Manipulation 2. Context Managers 3. Advanced Metaprogramming & Decorators 4. AST Module oth..">
+        <link rel="preload" href="homeknowledge.css" as="style">
+       <link rel="stylesheet" href="homeknowledge.css">
+       <link rel="preload" as="image" href="../img1/python-fe-one.webp">
+       <link rel="preload" as="image" href="../img1/python-fe-two.webp">
+       <link rel="preload" as="image" href="../img1/c-pointer-2.webp">
+       <link rel="preload" as="image" href="../img1/c-pointer-5.webp">
+       <script async type="application/javascript"
+        src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+<script>
+  (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+    basicSubscriptions.init({
+      type: "NewsArticle",
+      isPartOfType: ["Product"],
+      isPartOfProductId: "CAownsWwDA:openaccess",
+      clientOptions: { theme: "light", lang: "en" },
+    });
+  });
+</script>
+          <link rel="icon" type="image/x-icon" href="../Img/seanomosicon.ico"> <!-- ICO file for older browsers -->
+    <link rel="icon" type="image/png" sizes="32x32" href="../Img/seanomos-32x32.png"> <!-- PNG file for modern browsers -->
+    <link rel="icon" type="image/png" sizes="16x16" href="../Img/seanomos-16x16.png"> <!-- Smaller PNG file -->
+    <link rel="apple-touch-icon" sizes="180x180" href="../Img/seanomos-apple-touch.png">
+    <link rel="canonical" href="https://seanomos.com/knowledge/python-features-advance.html" />
+<link rel="alternate" type="application/rss+xml" title="Seanomos Article" href="https://seanomos.com/feed.xml" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList",
+"@id":"https://seanomos.com/knowledge/python-features-advance.html#breadcrumb", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Home",
+    "item": "https://seanomos.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Computer articles",
+    "item": "https://seanomos.com/knowledge/python-features-advance.html"  
+  }]
+}
+</script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://seanomos.com/knowledge/python-features-advance.html"
+  },
+  "headline": "Advance python topics and features deeply discuss",
+  "description": "Learn advance python topics  in depth 1. Custom Bytecode Manipulation 2. Context Managers 3. Advanced Metaprogramming & Decorators 4. AST Module",
+  "image": [
+    "https://seanomos.com/img1/python-fe-two.webp",
+    "https://seanomos.com/img1/python-fe-one.webp"
+  ],  
+  "author": {
+    "@type": "Organization",
+    "name": "Seanomos",
+    "url": "https://seanomos.com/link/about.html"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Seanomos",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://seanomos.com/Img/seanomos-apple-touch.png"
+    }
+  },
+  "datePublished": "2024-08-28",
+  "dateModified": "2024-09-12"
+}
+</script>
+<script type="application/ld+json">
+    {"@context" : "http://schema.org","@type" : "Organization","url" : "https://seanomos.com/","logo" : "https://seanomos.com/Img/seanomos-apple-touch.png","name" : "Seanomos",
+      "description": "Seanomos is the best high quality books recomendation websites for professional courses and also shared high quality blog post",
+      "sameAs": [
+    "https://www.facebook.com/profile.php?id=61566869429775",
+    "https://x.com/seanomos",
+    "https://seanomos.com/"
+  ],"contactPoint": {"@type": "ContactPoint","email": "support@seanomos.com"}}
+  </script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="../link/footer.css" media="print" onload="this.media='all'">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C50M2F75W9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C50M2F75W9');
+</script>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "dbbeffad-fe65-4591-bfe8-933bb8934d50",
+    });
+  });
+</script>
+    </head>
+  <style>
+    .new { width: 60%; padding: 20px 20px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; margin: 0px 20px;}
+    .second {width: 20%;text-align: right;padding: 20px 10px;}
+    .second li {padding: 20px 0px;}
+    .second a {text-decoration: none;color: #010004;}
+    .second a:hover {text-shadow: rgba(68, 255, 0, 0.797) 3px 0 10px;}
+    .first li {padding: 15px 0px;color: #020007;}
+    .first p {text-align: left;margin: 30px 0px;font-weight: bold;font-size: 25px;}
+    
+    .first { width: 18%; text-align: left; padding: 20px 0px 0px 25px;}
+    main {display: flex;margin-top: 20px;line-height: 1.9;}
+    h1 {font-size: 30px;text-align: left;padding: 5px 0px;}
+    section { padding: 10px 0px;}
+    h3 { padding: 10px 0px;font-size: 22px;font-weight: bold;}
+    h4 { padding: 10px 0px;font-size: 20px;font-weight: bold;}
+    h2 {font-size: 24px;padding: 10px 0px;margin-top: 20px;font-weight: bolder;}
+    p {text-align: justify;font-size: 20px;color: #000000e3;}
+    .ai {display: block;height: auto;width: 100%;border-radius: 10px;margin: 10px 0px;max-height: 400px;}
+
+    .mybtnn {width: 150px;height: 50px;border-radius: 15px;font-size: 20px;color: white;background-color: rgb(221, 14, 14);transition: all 0.5s ease;margin-top: 20px;text-align: center;}
+    .mybtnn:hover {background-color: rgba(206, 50, 50, 0.8);cursor: pointer;}
+    @media only screen and (max-width: 792px) {main {width: 98%;margin: auto;}
+        h1 {font-size: 25px;}
+        h2 {font-size: 20px;padding: 10px 0px;margin-top: 20px;}
+        main {flex-direction: column-reverse; line-height: 1.7;font-weight: 400;color: #010004ed;}
+        .new {width: 98%;margin: auto;}
+        h3{font-size: 20px;}
+        h4{font-size: 20px;}
+        .first { display: none;}
+        .second {display: none;}
+    
+        p{font-size: 18px;}
+    }
+        b{font-size: 21px;}
+        .list{font-size: 20px;color: #000000e3;}
+</style>
+<body>
+    <header>
+        <nav class="navbar background">
+            <div class="logo"><img src="../Img/seanomos-apple-touch.png" alt="seanomos site logo"><p class="seanomos">eanomos</p></div>
+            <input type="checkbox" id="click">
+            <ul class="nav-list">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../link/about.html">About</a></li>
+                        <li><a href="../link/contactus.html">Contact us</a></li>
+                <li><a href="../link/services.html">Services</a></li>
+                <li><a href="../link/faq.html">Q&A</a></li>
+                <li><a href="../knowledge/homeknowledge.html">Seanomos Blog</a></li>
+            </ul>
+            <div class="rightnav">
+                <label for="click" class="menu-btn">
+                        <i class="fas fa-bars"></i>
+                    </label>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="first">
+            <p>Table of Content</p>
+            <ol>
+                <li>Custom Bytecode Manipulation or CBM</li>
+                <li>Context Managers for Resource Management</li>
+                <li>Advanced Metaprogramming & Decorators</li>
+                <li>Dynamic Code Execution with AST</li>
+                <li>Advanced Data Descriptors and Properties</li>
+                <li>Python in Embedded Systems and Microcontrollers</li>
+                <li>Custom Import Hooks & Meta-Importers</li>
+                <li>Just In Time Compilation with PyPy</li>
+                <li>Complex Memory Management with Garbage Collection Module</li>
+                <li>Advanced Use of __slots__ for Memory Optimization</li>
+                <li>Introspection and Reflection</li>
+                <li>Advanced Type Annotations</li>
+                <li>Domain-Specific Languages use in python</li>
+                <li>Dynamic Code Generation & Execution</li>
+            </ol>
+        </div>
+        <div class="new">
+        <h1>Advance python topics and features deeply discuss</h1>
+        <p><i class="fa-solid fa-pencil"></i> Python is a advance language with many advanced features that aren't always covered in many tutorials and articles. Here are some unique & advanced uses of Advance python topics that you might not find on most websites and any others.</p>
+        
+        <section>
+            <h2>1. Custom Bytecode Manipulation or CBM</h2>
+            <h3>:- Bytecode Inspection & Manipulation: </h3>
+            <p><i class="fa-solid fa-feather"></i> using modules like dis & opcode. This can be used for dynamic optimization or creating custom code transformations.</p>
+            <img src="../img1/cbm.png" alt="custom byte manipulation">
+        </section>
+        
+        <section>
+            <h2>2. Context Managers for Resource Management</h2>
+            <h3>:- Custom Context Managers: </h3>
+            <p><i class="fa-solid fa-feather"></i> Python  and statement is often used with file operations, but you can make custom context managers using the contextlib module or by implementing enter and exit methods.</p>
+            <img src="../img1/CustomContextManagers.png" alt="Custom Context Managers"  width="300px">
+        </section>
+        <section>
+            <h2>3. Advanced Metaprogramming & Decorators</h2>
+            <h3>:- Function Wrapping: </h3>
+            <p><i class="fa-solid fa-feather"></i> Decorators can wrap functions to modify their behaviour. You can also make more complex decorators that support parameters & nested decorators for function wrapping.</p>
+            <h3>:- Meta Classes: </h3>
+            <p><i class="fa-solid fa-feather"></i> Meta classes control the creation and behaviour of classes. They can be used to create singleton patterns and  enforce class constraints and automatically register classes in python.</p>
+        </section>
+        <section>
+            <h2>4. Dynamic Code Execution with AST</h2>
+            <h3>:- Abstract Syntax Trees or AST Module: </h3>
+            <p><i class="fa-solid fa-feather"></i> The Abstract Syntax Trees module allows you to analyse & parse & transform Python language code. This is useful for code analysis tools or refactoring or creating custom language constructs python programming.</p>
+        </section>
+        <img src="../img1/python-fe-two.webp" alt="Advance python topics" class="ai">
+        <section>
+            <h2>5. Advanced Data Descriptors and Properties</h2>
+            <h3>:- Custom Descriptors python : </h3>
+            <p><i class="fa-solid fa-feather"></i> Custom Descriptors manage in python attribute  to access and can be used to implement slow properties or enforce data validation. Example here…</p>
+        </section>
+        <section>
+            <h2>6. Python in Embedded Systems and Microcontrollers</h2>
+            <h3>:- Micro Python: </h3>
+            <p><i class="fa-solid fa-feather"></i> Python is used in embedded systems & microcontrollers through implementations like Micro Python and Circuit Python. Micro python allow Python to run on hardware with limited resources.</p>
+        </section>
+        <section>
+            <h2>7. Custom Import Hooks & Meta-Importers</h2>
+            <h3>:- Import Hooks in python: </h3>
+            <p><i class="fa-solid fa-feather"></i> Python is the import system that can be customized using import hooks. python allows you to control how modules are imported and which can be used for implementing virtual file system or loading code from unconventional sources.</p>
+        </section>
+        <section>
+            <h2>8. Just In Time Compilation with PyPy</h2>
+            <h3>:- PyPy:</h3>
+            <p><i class="fa-solid fa-feather"></i> PyPy is another Python interpreter that includes a JIT compiler and which can significantly speed up Python code execution compared to C Python.</p>
+        </section>
+        <img src="../img1/c-pointer-5.webp" alt="a boy learn python" class="ai">
+        <section>
+            <h2>9. Complex Memory Management with Garbage Collection Module</h2>
+            <h3>:- Garbage Collection</h3>
+            <p><i class="fa-solid fa-feather"></i> Python’s Garbage Collection module provides the garbage collection, which can be tuned for performance or debugging memory issues in complex applications.</p>
+            <img src="../img1/garbagecollectionpy.png" alt="garbage collection py"  width="300px">
+        </section>
+        <section>
+            <h2>10.Advanced Use of __slots__ for Memory Optimization</h2>
+            <h3>:- Memory Optimization: </h3>
+            <p><i class="fa-solid fa-feather"></i> In the python  __slots__ in classes can reduce memory usage by preventing the making of instance dictionaries & directly storing attributes in a fixed structure.</p>
+            <img src="../img1/MemoryOptimization.png" alt="Memory Optimization"  height="200px">
+        </section>
+        <section>
+            <h2>11. Introspection and Reflection</h2>
+            <h3>:- Introspection: </h3>
+            <p><i class="fa-solid fa-feather"></i> In the Python introspection capabilities agree you to examine objects at runtime. You can inspect objects, functions, & classes to get information about their methods & attributes.</p>
+            <h3>:- Reflection: </h3>
+            <p><i class="fa-solid fa-feather"></i> Reflection involves modifying the program structure or behaviour at runtime, such as dynamically adding or removing attributes.</p>
+        </section>
+        <section>
+            <h2>12.Advanced Type Annotations</h2>
+            <h3>:- Type Hints & Mypy: </h3>
+            <p><i class="fa-solid fa-feather"></i> Python supports type hints features that can be used for static type checking with tools like mypy. Advanced usage includes creating complex type structures & using type guards.</p>
+            <h3>:-Protocol Classes: </h3>
+            <p><i class="fa-solid fa-feather"></i> Protocol you can define structural subtyping interfaces that can be used to specify that a class must implement certain methods in python.</p>
+        </section>
+        <img src="../img1/c-pointer-2.webp" alt="a girl learn python programming" class="ai">
+        <section>
+            <h2>13. Domain-Specific Languages use in python</h2>
+            <h3>:-Internal DSLs: </h3>
+            <p><i class="fa-solid fa-feather"></i> Python syntax & flexibility permit you to create internal DSLs and specialized languages designed to solve problems in a specific domain.</p>
+            <h3>:-Parsing Libraries: </h3>
+            <p><i class="fa-solid fa-feather"></i> Libraries like ply Python Lex-Yacc & lark can be used to create and parse custom Domain Specific Languages.</p>
+        </section>
+        <section>
+            <h2>14. Dynamic Code Generation & Execution</h2>
+            <h3>:- exec() and eval(): </h3>
+            <p><i class="fa-solid fa-feather"></i> Python allows for dynamic code execution using exec() & eval(). While these can be powerful and they should be used cautiously due to security risks.</p>
+            <h3>:- Code Generation Libraries: </h3>
+            <p><i class="fa-solid fa-feather"></i> python Libraries like ast & inspect can be used to analyze & generate Python code programmatically.</p>
+        </section>
+        </div>
+        <div class="second">
+            <h2>Recent Post</h2>
+            <ul>
+               
+                <li><a href="difference-between-narrow-ai-and-general-ai.html">Difference between narrow ai and general ai</a></li>
+                <li><a href="how-ai-is-used-in-agriculture.html">How AI is used in agriculture</a></li>
+                <li><a href="Janitor-AI.html">Janitor AI full details in depth with example</a></li>
+                <li><a href="primary-advantage-of-using-generative-ai.html">What is the primary advantage of using generative ai in content creation</a></li>
+                <li><a href="chatgpt-features-list.html">ChatGPT features list, JBot, limitations, and benefits for you.</a></li>
+                <li><a href="The-Importance-of-Computer-Networking.html">The importance of computer networking & advantages of network</a></li>
+            </ul>
+          
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                
+                <div class="footer-col">
+                    <h2>Get help</h2>
+                    <ul>
+                        <li><a href="../link/contactus.html">Contact us</a></li>
+                        <li><a href="../link/services.html">User services</a></li>
+                        <li><a href="../link/sitemap.html">Site map</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h2>Security and service</h2>
+                    <ul>
+                        <li><a href="../link/privacypolicy.html">privacy policy</a></li>
+                        <li><a href="../link/terms.html">Terms and conditions</a></li>
+                        <li><a href="../link/AffiliateDisclosure.html">Affiliate Disclosure</a></li>
+                        <li><a href="../link/adsense-disclaimer.html">Disclaimer</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h2>Follow us</h2>
+                    <div class="social-links">
+                        <ul>
+                           <a href="https://www.facebook.com/profile.php?id=61566869429775"><i
+                                    class="fab fa-facebook-f"></i></a>
+                                    <a href="https://x.com/seanomos"><i class="fa-brands fa-x-twitter"></i></a>
+                                    <a href="https://feeds.feedburner.com/seanomos"><i class="fa-solid fa-rss"></i></a>
+                        </ul>
+                    </div>
+                </div>
+                 <div class="footer-col">
+                    <h3>© 2024 Seanomos</h3>           
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+* {margin: 0;padding: 0;box-sizing: border-box;font-family: "Poppins", sans-serif;font-family: sans-serif;}
+main{width: 80%;margin: auto;margin-bottom: 40px;}
+.seanomos{justify-content: center;align-items: center;display: flex;font-size: 25px;}
+h1{margin-bottom: 10px;text-align: center;}
+.accordion {background-color: #eee;color: #444;cursor: pointer;padding: 18px;margin: 10px 0;width: 100%;border: none;text-align: left;outline: none;font-size: 15px;transition: 0.4s;}
+.active,
+.accordion:hover {background-color: white;border: 1px dashed deepskyblue;}
+.accordion:after {content: '\002B';color: #777;font-weight: bold;float: right;margin-left: 5px;}
+.active:after {content: "\2212";}
+.panel {padding: 0 18px;background-color: white;max-height: 0;overflow: hidden;transition: max-height 0.2s ease-out;}
+.navbar {display: flex;align-items: center;justify-content: space-around;position: sticky;top: 0;font-family: sans-serif;background:#F2F2F2;}
+header{position: sticky;top: 0;}
+.nav-list {width: 100%;display: flex;align-items: center;cursor: pointer;}
+.nav-list li {list-style: none;padding: 27px 20px;margin: auto;}
+.nav-list li a {text-decoration: none;color: #000000;font-size: 20px; transition: all 0.3s ease;padding: 5px; border-radius: 12px;}
+.nav-list li a:hover {color: rgb(112, 40, 1);box-shadow: rgba(113, 2, 2, 0.447) 0px 5px 15px;}
+.rightnav {text-align: right;padding: 0 23px;cursor: pointer;}
+.logo {width: 20%;display: flex;justify-content: center;}
+.logo img {width: 60px;height: 60px;border: 2px solid white;border-radius: 50%;}
+.navbar .menu-btn i{color: #fff;font-size: 22px; cursor: pointer;display: none;}
+#click{display: none;}
+@media only screen and (max-width: 1083px) {.nav-list {flex-direction: column;text-align: center;padding: 1px;}
+.rightnav {width: 20%;}
+.navbar{padding: 10px 0px;}
+.nav-list{position: fixed;top: 80px;left: -100%;background: #f3efef;height: 100vh;display: block;text-align: center;transition: all 0.3s ease;}
+#click:checked ~ ul{left: 0%;}
+.navbar .menu-btn i{ display: flex; color: #6B0000; width: 20%;}}

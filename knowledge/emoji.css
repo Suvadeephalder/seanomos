@@ -1,0 +1,50 @@
+
+     h1 { margin: 10px 0; font-size: 1.8em; }.info {margin: 10px;font-size: 1rem;}
+    #controls {display: flex;justify-content: center;gap: 10px;margin: 10px 0;flex-wrap: wrap;}
+    button {padding: 10px 20px;font-size: 1rem;border: none;background: #007bff;color: white;border-radius: 5px;cursor: pointer;}
+    button:hover { background: #0056b3; }
+    .game {max-width: 400px;margin: 20px auto;display: grid;grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));gap: 10px;}
+    .card {width: 100%;padding-top: 100%;position: relative;background-color: #bbb;color: #555;font-size: 2em;display: flex;align-items: center;justify-content: center;cursor: pointer;border-radius: 10px;user-select: none;transition: transform 0.4s ease, background 0.4s ease;}
+    .card span {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);
+      font-weight: bold;}
+    .card.flipped { background-color: #fff;color: #000;transform: rotateY(180deg);border: 2px solid #333;}
+    #message {margin-top: 15px;font-weight: bold;font-size: 1.1em;}
+    @media (max-width: 500px) {
+      .card {
+        font-size: 1.4em;
+      }
+    }
+    .new { width: 60%; padding: 20px 20px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; margin: 0px 10px;font-family: sans-serif;
+      text-align: center;
+      background: #f5f7fa;}
+    .second {width: 20%;text-align: right;padding: 20px 10px;}
+    .first a:hover {text-shadow: rgba(255, 106, 0, 0.579) 3px 0 10px;}
+    .first li {padding: 15px 0px;color: #020007;}
+    .first p {text-align: left;margin: 30px 0px;font-weight: bold;font-size: 25px;}
+    
+    .first { width: 18%; text-align: left; padding: 20px 0px 0px 25px;}
+    main {display: flex;margin-top: 10px;line-height: 1.9;}
+    h1 {font-size: 30px;text-align: center;padding: 5px 0px;}
+    section { padding: 10px 0px;}
+    h3 { padding: 10px 0px;font-size: 22px;font-weight: bold;}
+    h4 { padding: 10px 0px;font-size: 20px;font-weight: bold;}
+    h2 {font-size: 24px;padding: 10px 0px;margin-top: 20px;font-weight: bolder;}
+    p {text-align: justify;font-size: 20px;color: #000000e3;}
+    .ai {display: block;height: auto;width: 100%;border-radius: 10px;margin: 10px 0px;max-height: 400px;}
+    .features p{text-align: center;}
+    .mybtnn {width: 150px;height: 50px;border-radius: 15px;font-size: 20px;color: white;background-color: rgb(221, 14, 14);transition: all 0.5s ease;margin-top: 20px;text-align: center;}
+    .mybtnn:hover {background-color: rgba(206, 50, 50, 0.8);cursor: pointer;}
+    @media only screen and (max-width: 792px) {main {width: 98%;margin: auto;}
+        h1 {font-size: 25px;}
+        h2 {font-size: 20px;padding: 10px 0px;margin-top: 20px;}
+        main {flex-direction: column-reverse; line-height: 1.7;font-weight: 400;color: #010004ed;}
+        .new {width: 98%;margin: auto;}
+        h3{font-size: 20px;}
+        h4{font-size: 20px;}
+        .first { display: none;}
+        .second {display: none;}
+    
+        p{font-size: 18px;}
+    }
+        b{font-size: 21px;}
+        .list{font-size: 20px;color: #000000e3;}

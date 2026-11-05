@@ -1,0 +1,28 @@
+body{margin: 0;padding: 0;}
+h1{text-align: center;font-size: 50px;margin-top: 10px;}
+.heda{font-size: 30px;background-color: rgb(25, 148, 189);padding: 5px;border-radius: 50px;text-align: center;margin: 30px 30px;}
+.sitemap{margin-left: 20px;margin-right: 20px;}
+.des a{text-decoration: none;font-size: 20px;color: black;padding: 10px;border: 2px solid black;border-radius: 5px;}
+.des{text-align: center;margin: 20px;}
+@media only screen and (max-width: 742px){.des a{font-size: 15px;}
+.des{margin: 15px;}}
+@media only screen and (max-width: 572px){.des a{display: flex;flex-direction: column;margin: 10px;}
+.heda{font-size: 20px;}}
+.navbar {display: flex;align-items: center;justify-content: space-around;position: sticky;top: 0;font-family: sans-serif;background:#F2F2F2;}
+header{position: sticky;top: 0;}
+.nav-list {width: 100%;display: flex;align-items: center;cursor: pointer;}
+.nav-list li {list-style: none;padding: 27px 20px;margin: auto;}
+.nav-list li a {text-decoration: none;color: #000000;font-size: 20px; transition: all 0.3s ease;padding: 5px; border-radius: 12px;}
+.nav-list li a:hover {color: rgb(112, 40, 1);box-shadow: rgba(113, 2, 2, 0.447) 0px 5px 15px;}
+.rightnav {text-align: right;padding: 0 23px;cursor: pointer;}
+.logo {width: 20%;display: flex;justify-content: center;}
+.logo img {width: 60px;height: 60px;border: 2px solid white;border-radius: 50%;}
+.navbar .menu-btn i{color: #fff;font-size: 22px; cursor: pointer;display: none;}
+#click{display: none;}
+@media only screen and (max-width: 1083px) {.nav-list {flex-direction: column;text-align: center;padding: 1px;}
+.rightnav {width: 20%;}
+.navbar{padding: 10px 0px;}
+.nav-list{position: fixed;top: 80px;left: -100%;background: #f3efef;height: 100vh;display: block;text-align: center;transition: all 0.3s ease;}
+#click:checked ~ ul{left: 0%;}
+.navbar .menu-btn i{ display: flex; color: #6B0000; width: 20%;}}
+.seanomos{justify-content: center;align-items: center;display: flex;font-size: 25px;}

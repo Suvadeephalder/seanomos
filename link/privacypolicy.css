@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.big{font-size: 20px;font-weight: bold;width: 85%;font-family: "Roboto", sans-serif; margin: auto;}
+.small{font-size: 20px;text-align: justify;width: 85%;padding-bottom: 20px;font-family: "Nunito", sans-serif;margin: auto;}
+h1{text-align: center; margin-top: 20px; margin-bottom: 25px}
+header{position: sticky;top: 0;}
+.navbar {display: flex;align-items: center;justify-content: space-around;position: sticky;top: 0;font-family: sans-serif;background:#F2F2F2;}
+.nav-list {width: 100%;display: flex;align-items: center;cursor: pointer;}
+.nav-list li {list-style: none;padding: 27px 20px;margin: auto;}
+.nav-list li a {text-decoration: none;color: #000000;font-size: 20px; transition: all 0.3s ease;padding: 5px; border-radius: 12px;}
+.nav-list li a:hover {color: rgb(112, 40, 1);box-shadow: rgba(113, 2, 2, 0.447) 0px 5px 15px;}
+.rightnav {text-align: right;padding: 0 23px;cursor: pointer;}
+.logo {width: 20%;display: flex;justify-content: center;}
+.logo img {width: 60px;height: 60px;border: 2px solid white;border-radius: 50%;}
+.navbar .menu-btn i{color: #fff;font-size: 22px; cursor: pointer;display: none;}
+#click{display: none;}
+.seanomos{justify-content: center;align-items: center;display: flex;font-size: 25px;}
+@media only screen and (max-width: 1083px) {.nav-list {flex-direction: column;text-align: center;padding: 1px;}
+.rightnav {width: 20%;}
+h1{font-size: 25px;}
+.navbar{padding: 10px 0px;}
+.nav-list{position: fixed;top: 80px;left: -100%;background: #f3efef;height: 100vh;display: block;text-align: center;transition: all 0.3s ease;}
+#click:checked ~ ul{left: 0%;}
+.navbar .menu-btn i{ display: flex; color: #6B0000; width: 20%;}}

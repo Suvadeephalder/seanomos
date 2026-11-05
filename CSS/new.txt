@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BBA Books for all year students  | advanced books Seanomos</title>
+    <meta name="keywords" content="bba books, bba first year books,business communication bba 1st year, book list, seanomos,bba books for 1st year">
+    <meta name="description" content="Find the advanced BBA books for all years students & expert reviews on best BBA books for 1st, 2nd & 3rd year. Improve your grades & gain your knowledge.">
+    <link rel="preload" href="../link/book.css" as="style">
+   <link rel="stylesheet" href="../link/book.css">
+    <link rel="stylesheet" href="../link/footer.css" media="print" onload="this.media='all'">
+  <link rel="icon" type="image/x-icon" href="../Img/seanomosicon.ico"> <!-- ICO file for older browsers -->
+<link rel="icon" type="image/png" sizes="32x32" href="../Img/seanomos-32x32.png"> <!-- PNG file for modern browsers -->
+<link rel="icon" type="image/png" sizes="16x16" href="../Img/seanomos-16x16.png"> <!-- Smaller PNG file -->
+<link rel="apple-touch-icon" sizes="180x180" href="../Img/seanomos-apple-touch.png">
+    <link rel="preload" href="../CSS/navbar.css" as="style">
+    <link rel="stylesheet" href="../CSS/navbar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" media="print" onload="this.media='all'">
+    <script src="../link/search.js" defer></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C50M2F75W9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C50M2F75W9');
+</script>
+</head>
+
+<body>
+    <header>
+    <nav class="navbar background">
+        <div class="logo"><img src="../Img/seanomoslogo.jpeg" alt="seanomos site logo">
+            <p class="seanomos">eanomos</p>
+        </div>
+            <input type="checkbox" id="click">
+        <ul class="nav-list">
+            <li><a href="../index.html">Home</li>
+            <li><a href="../link/about.html">About</a></li>
+            <li><a href="../link/contact.php">Contact us</a></li>
+            <li><a href="../link/services.html">Services</a></li>
+            <li><a href="../link/faq.html">Q&A</a></li>
+            <li><a href="../knowledge/homeknowledge.html">knowledge gain</a></li>
+        </ul>
+        <div class="rightnav">
+            <label for="click" class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </label> 
+            <div class="search">
+                <input type="text" name="" id="find" placeholder="search here..." onkeyup="search()">
+               </div>
+        </div>
+        
+    </nav>  
+    </header>
+    <main>
+        <div class="newc">
+            <div class="search">
+                <input type="text" name="" id="find1" placeholder="search here..." onkeyup="search()">
+               </div>
+        </div>
+    <section>
+        <div class="hello">
+            <h1>Good BBA Books for all year students full review 2024</h1>
+        </div>
+        <p class="headingp">Why our books are important.... So many websites select books only by customer reviews and personal choice but we check books which books are like by many teachers and expert, reviewed by customers & we select books from top university bba syllabus. We collect all these books list & finally we provide good and high quality books for all BBA students.It also discusses why & where every books are needed & advanced aspects</p>
+    </section>
+<section class="unique">
+        <h2>Why BBA Mathematics is important for BBA students</h2>
+        <p>Bachelor of Business Administration Mathematics is not about learning formulas or solving calculations; it's about developing a mindset & skillset that are essential for navigating the difficulties of the business creation. From fostering cognitive flexibility to allowing right decision making & innovation, the broader impacts of math provide BBA students with a robust toolkit for both personal & professional development.</p>
+    </section>
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">BBA MATHEMATICS VOLUME-I Paperback – 1 January 2010 by B. K. Pal and K. Das</h2>
+            <p class="sectionSubTag">"BBA Mathematics by B. K. Pal & K. Das is a valuable resource for Bachelor of Business Administration students who need a clear & accessible introduction to essential mathematical concepts for students . Its strengths lie in its targeted approach & clarity, though it may need to be supplemented with additional resources for more advanced topics or recent developments. For students seeking a strong foundation in mathematics for business studies, this book is a good choice.</p>
+            <a href="https://amzn.to/3ypXe0P" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/bba-course-math.jpg" alt="BBA MATHEMATICS VOLUME I" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Business Mathematics for all Courses Paperback : first January 2014 by D.C. Sancheti (Author)</h2>
+            <p class="sectionSubTag">Business Mathematics by D.C. Sancheti is a best resource for students across various business programs, providing a solid foundation in business mathematics. Its strengths lie in its broad coverage & practical focus, though it may not delve deeply into advanced topics. The book is well-suited for those who need a comprehensive introduction to business mathematics with a clear & practical approach.</p>
+            <a href="https://amzn.to/3wZ70qi" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/businessmath.jpg" alt="Business Mathematics" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">B.Com (Hons) - Sem - 3: Business Mathematics Paperback – 1 January 2013 by R.S. Soni (Author)</h2>
+            <p class="sectionSubTag">The textbook "Business Mathematics" by R.S. Soni, published on January 1, 2013, is tailored for B.Com (Hons) students in their third semester. This paperback edition includes a variety of readings and activities aimed at enhancing students' comprehension and response skills. Each lesson, tested in the classroom, features concise reading passages followed by a range of questions, including both constructed response and multiple-choice formats, as well as thought-provoking writing and thinking exercises. Designed for versatility, this resource can serve as a core or supplementary program, be utilized for test preparation, or act as an intervention tool for individual students or small groups.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4bvsXwm" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/business-math-rssoni.jpg" alt="B.Com Hons Business Mathematics by R.S. Soni" class="imgFluid">
+        </div>
+
+    </section>
+    <section class="unique">
+        <h2>Where in depth business statistics are used</h2>
+        <p>Business statistics is more than just a set of tools for analysing statistics. it shapes how BBA students approach problems and make decisions & drive innovation. By fostering a data driven attitude, enabling effective decision making under uncertainty, and enhancing interdisciplinary integration, business statistics plays a critical role in preparing students for the complex & dynamic world of professional.</p>
+    </section>
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Fundamentals of Statistics-Volume II Paperback – first January 2016 by A.M.Gun , M.K Gupta , B Dasgupta -author</h2>
+            <p class="sectionSubTag">FFundamentals of Statistics Volume two by A.M. Gun, M.K. Gupta, & B. Dasgupta is a good resource for those who have  foundation in statistics & wish to advance their knowledge. It is clear explanations and comprehensive coverage & practical focus make it a useful textbook for students & professionals aiming to deepen their understanding of advanced statistical methods. However, its complexity might be a challenge for those who are not well prepared or are looking for a more application and oriented approach.</p>
+            <a href="https://amzn.to/4ay5nO8" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/fundamentals-of-statistics.jpg" alt="Fundamentals of Statistics Vol II by A.M.Gun and M.K Gupta" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Business Statistics Paperback – 1 December 2010 by Tulsian Bharat (Author), Jhunjhunwala Bharat (Author)</h2>
+            <p class="sectionSubTag">"Business Statistics" by Tulsian Bharat & Jhunjhunwala Bharat is a best book for understanding statistical methods in a business context. Its comprehensive coverage & practical approach and clear explanations make it a valuable resource for students & professionals.</p>
+            <a href="https://amzn.to/4dUFPxK" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/business-statistics-textbook.jpg" alt="Business Statistics by Tulsian Bharat,Jhunjhunwala Bharat" class="imgFluid">
+        </div>
+
+    </section>
+    <section class="unique">
+        <h2>Why Every BBA Student Should Learn Microeconomics</h2>
+        <p>Microeconomics provides BBA students with important tools for understanding market dynamics & consumer behaviour and business decision making. By grasping these concepts, students can develop effective pricing strategies, optimize resource allocation, navigate complex market environments, understanding market mechanisms, evaluating business structures and all of which are crucial for succeeding in the business world.</p></section>
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">ECONOMICS I Paperback – 1 January 2015 by Panchanan Das and Anindita Sengupta.</h2>
+            <p class="sectionSubTag">Economics I by Panchanan Das & Anindita Sengupta is a well structured & accessible introduction to economics. Its comprehensive coverage of foundational concepts in both microeconomics & macroeconomics combined with clear explanations and practical applications, makes it a valuable resource for students new to the subject.</p>
+            <a href="https://amzn.to/3Vb71Ru" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/economics-1-oxford.jpg" alt="Economics 1 by Panchanan Das & Anindita Sengupta" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Microeconomics Paperback – 1 January 2003 by Mukherjee Sampat and Mukherjee Mallinath and Ghose Amitava</h2>
+            <p class="sectionSubTag">Microeconomics by Sampat Mukherjee, Mallinath Mukherjee & Amitava Ghose is a detailed & comprehensive book that provides an in depth learning of microeconomic theory. Its thorough coverage and clear explanations and effective use of mathematical & graphical analysis make it a valuable resource for students seeking to grasp the fundamentals of microeconomics.</p>
+            <a href="https://amzn.to/3yFQdZQ" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/microeconomics-books-students.jpg" alt="Microeconomics Paperback" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Modern Microeconomics Paperback : 20 May 2003 by A. Koutsoyiannis (Author)</h2>
+            <p class="sectionSubTag">This book offers a comprehensive exploration of both traditional and contemporary microeconomic theory, focusing on the behavior of fundamental economic agents: consumers and producers. The primary emphasis is on oligopoly, reflecting its prominence in the modern industrial landscape. The updated Second Edition introduces a third section that delves into three critical areas: factor pricing theory, general equilibrium theory, and welfare theory, ensuring that it encompasses all topics typically found in textbooks on price theory.Written at an intermediate level, this text is suited for undergraduate courses in microeconomics and can also be valuable for postgraduate courses that cover micro theory at a less specialized level. The textbook stands out for its unique combination of coverage and methodology.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3VdLzeI" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/modern-microeconomics.jpg" alt="Modern Microeconomics by A. Koutsoyiannis" class="imgFluid">
+        </div>
+    </section>
+    <section class="unique">
+        <h2>why Computer fundamentals is important to study BBA</h2>
+        <p>Learning computer fundamentals provides BBA students with essential skills that go outside simple technical knowledge. It improves problem solving abilities, supports effective data management, fosters cybersecurity awareness, and prepares students for technology integration & innovation. By understanding the basics of Computer knowledge. BBA students are better equipped to navigate the modern business site, where technology is an integral component of success.</p></section>
+        
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Computer Fundamentals :Pradeep K. Sinha : BPB Publications Paperback : 31 Dec 2010 by BPB Publications (Author)</h2>
+            <p class="sectionSubTag">Pradeep K. Sinha Computer Fundamentals is designed to introduce readers to essential concepts in Cs students. It serves as an ideal textbook for various introductory courses in IT and Computer Science, thanks to its clear, straightforward explanations and simplicity. The book is particularly valuable for beginners due to its accessible language and thorough coverage of fundamental topics. The book addresses significant topics such as number systems, computer codes, binary arithmetic, Boolean algebra, and logic circuits. It includes updated introductions to new computing concepts, topics, and classifications. Additionally, it covers an introduction to programming in C.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4bsuXWj" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/computer-fandamentals.jpg" alt="computer Fundamentals by Pradeep K. Sinha" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">FUNDAMENTALS OF COMPUTERS. 6TH EDN Paperback – 17 December 2014 by Neeharika Adabala (Author), V. Rajaraman (Author)</h2>
+            <p class="sectionSubTag">The sixth edition of the widely praised best computer books Fundamentals of Computers offers a clear and comprehensive over-view of computer systems operation, addressing both hardware and software components. The book starts with the representation of numeric and character data in a computer, and explores how various input and output devices operate, how different types of memory units are organized, and how the processor handles data. It provides a clear explanation of the interconnections and communication between I/O units, memory, and the processor. Software concepts are also covered, including programming languages, operating systems, and communication protocols. Given the increasing importance of wireless technologies for network access, the book now includes coverage of cellular wireless communication systems, WiFi (Wireless Fidelity), and WiMAX, integrating these topics into the fundamental knowledge of computers. The book also discusses the role of computers in multimedia processing, reflecting its growing relevance.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.in/d/gmg4Xvd" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/fundamentals-of-computers.jpg" alt="FUNDAMENTALS OF COMPUTERS by Neeharika Adabala, V. Rajaraman" class="imgFluid">
+        </div>
+    </section>
+    <section class="unique">
+        <h2>Why business communication books are essential for BBA students</h2>
+        <p>Business communication is vital for BBA students because it is the basis for real management, leadership, and teamwork in the business creation. why business communication books are essential for BBA students- Innovative Communication Strategies, Psychological & Emotional Aspects, Foundation for Leadership & Management and Professional Development. By learning business communication, BBA students gain a comprehensive understanding of how to effectively convey messages, influence others, and navigate complex interpersonal dynamics.</p></section>
+        
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Business Communication Today (Old Edition) Paperback – 3 January 2017 by L. Bovee Courtland,Thill John and Lal Raina Roshan.</h2>
+            <p class="sectionSubTag">The landscape of business communication has undergone significant transformation over the past few decades. Mobile communication and connectivity are revolutionizing how business communicators plan, create, and distribute messages. With mobile devices rapidly surpassing PCs as the primary tool for digital communication among millions of consumers, employees, and executives, businesses that fail to adapt to mobile-friendly practices risk falling behind. This edition features extensive new content on mobile communication, including major updates in several chapters and the addition of new questions, activities, and case studies.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4dUGNdm" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/business-communication-today.jpg" alt="Business Communication Today " class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Business English Paperback – 1 January 2016 by PREM P.BHALLA (Author)</h2>
+            <p class="sectionSubTag">Effective communication is crucial for success in all business and professional endeavors. It is a multifaceted subject that requires an understanding of not only language but also human behavior, sensitivities, and the fundamentals of one's chosen field. Spoken and Written BUSINESS ENGLISH addresses these needs by offering accessible insights into- Communication Fundamentals, Spoken Business English, Written Business English, Valuable Reference Materials. This comprehensive guide explains how people interact through body language. It provides practical advice on speaking confidently in various settings such as the workplace, meetings, seminars, and public speaking. Additionally, it covers how to write clear, error-free memos, letters, applications and reports. The book includes an extensive reference section designed to support global business and professional activities.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4bPpOay" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/business-english.jpg" alt="Business English Paperback by PREM P.BHALLA" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">The Effective Presentation Paperback – 1 September 2005 by Asha Kaul (Author)</h2>
+            <p class="sectionSubTag">This book is designed to address the evolving needs of professionals and academics, offering a thorough, step-by-step guide to crafting effective presentations. Written in a clear and approachable manner, it aims to make the presentation process less daunting and more manageable. The author provides practical advice on planning presentations across various disciplines, focusing on their delivery and visual appeal, and includes valuable tips throughout. The book covers multiple aspects of effective presentations,Selecting and organizing content for maximum impact, Determining the ideal duration, audience size, and their level of understanding, Delivery techniques, communication styles, writing strategies and the use of PowerPoint and video conferencing, Engaging with the audience and Avoiding common presentation pitfalls</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3QZEo79" rel="nofollow" ><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/the-effective-presentation.jpg" alt="The Effective Presentation by Asha Kaul" class="imgFluid">
+        </div>
+
+    </section>
+    <section class="unique">
+        <h2>Where deeply use DIFFERENTIAL and CALCULUS in BBA studies</h2>
+        <p>These advanced applications of differential and calculus in BBA studies illustrate how these mathematical tools extend far beyond outdated fields, offering deep insights & solutions in various business contexts. By leveraging these techniques, BBA students can tackle complex problems, optimize business processes & make informed strategic decisions like Behavioural Economics and Decision Making Models, Advanced Marketing Analytics, Operations Research & Supply Chain Management, Financial Risk Management and Strategic Financial Planning etc.</p></section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">SCHAUM'S EASY OUTLINE OF INT TO MATHEMATICAL ECONOMICS Paperback for stuents: 8 Jan 2020 by Edward T. Dowling (Author)</h2>
+            <p class="sectionSubTag">This book is crafted to engage students. who may struggle with exam and complex texts. It uses cartoons, sidebars, icons, and other visual aids to convey information quickly and effectively. The concise text distills the subject matter to its core elements, providing essential insights in an easily digestible format. Authored by experts who are recognized authorities in their fields, the book is ideal for rapid review and last-minute exam preparation.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4buaUq9" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/introduction-to-mathematical-economics.jpg" alt="INTRODUCTION TO MATHEMATICCAL ECONOMICS by Edward T. Dowling" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">DIFFERENTIAL AND INTEGRAL CALCULUS VOLUME 1 Paperback – 1 January 1996 by PISKUNOV N (Author)</h2>
+            <p class="sectionSubTag">Differential and Integral Calculus Volume I by N. Piskunov is a best book that provides a comprehensive introduction to calculus. Its detailed theoretical approach & extensive coverage of differential & integral calculus make it a best resource for students learns a deep understanding of the subject. While the dense and theoretical nature of the book might be challenging for some, it is clear explanations & abundant exercises offer significant educational value.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3VeVwZ2" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/differential-and-integral-calculus.jpg" alt="DIFFERENTIAL AND INTEGRAL CALCULUS VOLUME 1 by PISKUNOV N" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Calculus and Analytic Geometry Paperback – 30 January 2010 by THOMAS (Author) for college, university students</h2>
+            <p class="sectionSubTag">Calculus & Analytic Geometry by  Thomas is a comprehensive & authoritative book that provides a thorough introduction to calculus & analytic geometry. It is detailed coverage and clear explanations and integration of theoretical and practical aspects make it an excellent resource for students seeking a deep understanding of the subject.</p>
+            <a href="https://amzn.to/44ZcCxE" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/calculus-and-analytic-geometry.jpg" alt="Calculus and Analytic Geometry by THOMAS" class="imgFluid">
+        </div>
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Fundamentals of Statistics Volume One Paperback book 1 Aug 2013 by B Dasgupta (Author) for college and university students</h2>
+            <p class="sectionSubTag">Fundamentals of Statistics Volume One by B. Dasgupta, published on 1 August 2013  is a textbook designed to introduce & explore the foundational concepts of statistics. Fundamentals of Statistics book aimed at college & university students, this book covers essential statistical principles & techniques. This book features & focus on foundational concepts offer significant educational value. For students aiming to build a strong foundation in statistics.</p>
+            <a href="https://amzn.to/44TSGvU" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/fundamentals-of-statistics-1.jpg" alt="Fundamentals of Statistics Volume 1 by B Dasgupta" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">BUSINESS STATISTICS, 3RD EDN Paperback – 1 July 2017 by G. Beri (Author)</h2>
+            <p class="sectionSubTag">This book provides a contemporary overview of statistical methods and data analysis, tailored for students in business administration, commerce, and economics. It is suitable for both undergraduate and postgraduate courses, offering a modern approach to understanding these essential topics.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.in/d/69S3KtM" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/business-statistics-c-beri.jpg" alt="BUSINESS STATISTICS
+            by G. Beri" class="imgFluid">
+        </div>
+
+    </section>
+     <section class="unique">
+        <h2>Why Macroeconomics book learns and where its concepts used</h2>
+        <p>Studying macroeconomics BBA students with a complete understanding of the economic environment, enhancing their ability to make informed decisions, strategize effectively and anticipate the impact of economic changes on their future business endeavors. This complete understanding is key for managing the intricacies of today’s business environment. Some macroeconomics features is Policy and Regulatory Insights, Global Economic Interdependence, Economic Indicators and Forecasting, Strategic Resource Allocation and so many.</p></section>
+
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Macroeconomics (english, Paperback, H.l. Ahuja) Paperback – 1 January 2019 by H. L. Ahuja (Author)</h2>
+            <p class="sectionSubTag">Macroeconomics by H. L. Ahuja is a comprehensive textbook that provides an in depth exploration of macroeconomic theory. This book aimed at students & professionals in economics, this book covers a broad range of macroeconomic concepts and their applications.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4dQr4vR" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/macroeconomics-theory-and-policy.jpg" alt="Macroeconomics theory and policy
+            by H. L. Ahuja" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Economics II and Advanced Business Mathematics Paperback book: 1 Aug 2017 by Anindita Sengupta and Swapan Samanta and Panchanan Das.</h2>
+            <p class="sectionSubTag">Economics II & Advanced Business Mathematics is specifically designed as a textbook for B.Com (Hons) students at the University of Calcutta. It offers thorough coverage of macroeconomics and advanced business mathematics topics.The book is written in clear, accessible language and includes numerous figures, graphs, and examples. It features a wide array of solved mathematical problems.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3VaqH7U" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/economics-ii-and-advanced-business-mathematics-oxford.jpg" alt="Economics II and Advanced Business Mathematics" class="imgFluid">
+        </div>
+
+    </section>
+        <h2>Why Society and Politics book learning is important?</h2>
+        <p>Integrating these insights into their education, BBA students can develop a nuanced understanding of the complex interaction between business, society & politics. This general perspective equips them to navigate & shape the business with greater acumen and foresight. Let’s discussed reasons why learning about society and politics is vital for BBA students i) Crisis Management and Resilience ii) Navigating Social Movements and Corporate Activism iii) Analyzing Political Economy iv) Strategic Communication and Public Relations v) Ethical and Inclusive Leadership etc.</p></section>
+ 
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Society and Politics in India book Essays in a Comparative Perspective: 63 | LSE Monographs on Social Anthropology| Paperback books : 31 March 2021 by Andre Beteille.</h2>
+            <p class="sectionSubTag">The book is structured into several essays that tackle diverse topics within the realm of Indian society & politics. Béteille employs a comparative approach and drawing on theory frameworks and empirical data to illuminate the complexities of Indian social structures, political dynamics, and institutional frameworks. example- Social Stratification and Inequality, Cultural and Social Change and Democracy and Development.</p>
+            <a href="https://amzn.to/44VtkxE" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/society-and-politics-in-india.jpg" alt="Society and Politics in India by Andre Beteille" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Sociology: Principles Of Sociology With An Introduction To Social Thoughts Paperback – 1 January 2019 by Rao C.N. Shankar (Author)</h2>
+            <p class="sectionSubTag">Sociology book authored by C.N. Shankar Rao & released on January 1, 2019, serves as an extensive book offering an in depth introduction to the field of sociology. The book is organized into various sections, each focusing on fundamental sociological principles while also presenting an overview of significant social theorists & their contributions.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3UXoICR" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/sociology-s-chand.jpg" alt="Sociology: Principles Of Sociology" class="imgFluid">
+        </div>
+    </section> 
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Social Problems in India 4th Edition Paperback : 1 Jan 2021 by Ahuja Ram.</h2>
+            <p class="sectionSubTag">Social Problems in India forth Edition by Ram Ahuja  offers a detailed of the social issues facing contemporary India. This new edition continues Ahuja’s tradition of thorough analysis and covering a range of pressing topics such as poverty and unemployment, caste discrimination & gender inequality. The book combines empirical research with theoretical perspectives to provide a comprehensive understanding of these problems.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3R0LgBj" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/social-problems-in-india.jpg" alt="Social Problems in India
+            by Ahuja Ram" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Essentials of Management book MCGRAW HILL SERIES IN MANAGEMENT Paperback : 31 Jan 1990 by Harold Koontz and Heinz Weihrich.</h2>
+            <p class="sectionSubTag">This new version of the core introduction to management textbook, based on the ninth edition of the original text, incorporates Perspectives to showcase real-world applications and includes Exercises/Action Steps. It features new content on social responsibility and ethics, planning premises, electronic media in communication, production and operations management (POM), and an enhanced section on international management.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3WTNBBW" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/essentials-of-management.jpg" alt="Essentials of Management
+            by Harold Koontz, Heinz Weihrich" class="imgFluid">
+        </div>
+
+    </section>   
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Management Text and Cases Paperback book 15 April 2005 by V. S. P. Rao and Hari V. Krishna</h2>
+            <p class="sectionSubTag">The book is rich with valuable features, including tables, charts, illustrations, skill-building exercises, cases, games, and incidents, distinguishing it from other management texts. Topics are presented in a straightforward, engaging, and succinct manner to ensure easy readability and quick understanding. Contemporary examples, personality profiles, and corporate experiences are integrated throughout to further enhance the content.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4dPZNJV" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/11BYPUt77SL.jpg" alt="Management: Text and Cases
+            by V. S. P. Rao, Hari V. Krishna" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Indian Economy Paperback – 1 January 2022 by V.K. Puri (Author), S.K. Misra (Author), Bharat Garg (Author)</h2>
+            <p class="sectionSubTag">Indian Economy by author V.K. Puri, S.K. Misra and Bharat Garg textbook that offers an insightful analysis of the economic landscape of India. The book meticulously covers a wide array of topics including economic planning and agricultural & industrial development, fiscal policies & economic reforms.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3UV4dXp" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/indian-economy.jpg" alt="Indian Economy by V.K. Puri, S.K. Misra, Bharat Garg" class="imgFluid">
+        </div>
+
+    </section>
+    <section class="unique">
+        <h2>Why Financial Accounting books need to learn every Bachelor of Business Administration students</h2>
+        <p>Financial accounting transcends its technical foundations for BBA students, offering a broad spectrum of skills and perspectives that reach beyond conventional financial management. It cultivates strategic thinking by enabling students to analyze and interpret financial data for informed decision-making.As technology evolves, financial accounting knowledge equips students to adapt to new tools and innovations, enhancing their analytical capabilities.</p></section>
+
+
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Legal Aspect Of Business old edition Paperback book : Picture Book, 16 Oct 2018 by Akhileshwar Pathak (Author)</h2>
+            <p class="sectionSubTag">7th  Version Legal Aspects of Business by Akhileshwar Pathak, coordinating law and administration and gives an broad examination  of law important to the commerce. This edition continues the tradition of its predecessors by making the study of business law both engaging and insightful. It employs a ‘learning by discovering’ method, where each major topic begins with unresolved cases highlighting business-related disputes and incidents. Students explore these cases to uncover the underlying concepts and principles. Subsequent sections on the same topics reinforce and expand this understanding through detailed notes, examples, and reviews of court rulings. Widely recognized as a leading text globally, it has been beneficial to both students and financial managers. </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4bLH404" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/legal-aspects-of-business.jpg" alt="Legal Aspect Of Business by Akhileshwar Pathak" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Financial Accounting: A Managerial Emphasis Paperback for college and university student – 1 August 2002 by Ashok Banerjee (Author)</h2>
+            <p class="sectionSubTag">The book stands out for its focus on the managerial aspects of accounting and emphasizing how financial data informs decision making processes within organizations. Banerjee presents complex accounting concepts in an accessible manner &  integrating theoretical insights with applications to bridge the gap between academic knowledge & real world scenarios. Its comprehensive coverage includes detailed explanations of financial statements, accounting principles & analytical techniques, supported by examples & case studies.</p>
+            <a href="https://amzn.to/3VeIviv" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/financial-accounting-a-managerial-emphasis.jpg" alt="Financial Accounting by Ashok Banerjee" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Financial Accounting for Management Paperback book : first July 2017 by Ramachandran (Author), Kakani (Author)</h2>
+            <p class="sectionSubTag">This book is designed to meet the needs of managers and non-specialists in accounting. Aiming to clarify concepts and bridge the gap between theory and practice, this new edition emphasizes financial accounting from a decision-making perspective. Through real-life illustrations, solved problems, and practical examples and cases, it enhances readers' ability to interpret and assess accounting reports. The edition has been thoroughly revised to reflect the provisions of the Companies Act, 2013, Indian Accounting Standards (Ind-AS), and International Financial Reporting Standards. It is a valuable resource for both management and accounting students, as well as practicing managers.
+            </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.in/d/4GhUZHm" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/financial-accounting-for-management.jpg" alt="Financial Accounting for Management by Ramachandran, Kakani" class="imgFluid">
+        </div>
+    </section>
+    <section class="unique">
+        <h2>where Production Planning & Control books deeply and advanced use</h2>
+        <p>Production Planning and Control (PPC) books are particularly valuable for BBA students, delving into some less obvious but important aspects. PPC is not just about engineering it intersects with various business functions such as supply chain management, marketing, and finance. It’s involving a significant amount of quantitative analysis, including forecasting, inventory control models and optimization techniques. PPC books often explore how global factors influence production planning, such as international supply chains and global market dynamics. This global perspective is increasingly important in a connected world & prepares students for managing operations in a diverse, international environment.</p></section>
+ 
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Production Planning and Control book: 1 Jan 2010 by Prof. Jhamb L.C (Author)</h2>
+            <p class="sectionSubTag">Production Planning & Control by Prof. L.C. Jhamb  book offers the good & essential for effective production management for student, professional and others . This book delves into the critical aspects of production planning and control, including forecasting, inventory management, scheduling, and quality control.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3UXRQJQ" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/production-planning-and-control.jpg" alt="Production Planning and Control by Prof. Jhamb L.C" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Production and Operations Management:- Text and Cases best Paperback : 1 Dec 2007 by Upendra Kachru (Author)</h2>
+            <p class="sectionSubTag">This book adopts a pedagogical style that is both participative and interactive, utilizing the case study method for learning. Each chapter begins with a prominent Indian company case study, which serves as a capstone for the chapter. This approach facilitates an engaging learning experience, as students can easily access data and additional information about these companies. By focusing on such cases, the book ensures that classroom learning is highly relevant to the Indian business context.
+            </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3WQcTRr" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/production-and-operations-management.jpg" alt="Production and Operations Management by Upendra Kachru" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Management Information System Paperback – 1 December 2010 by Gupta A.K. (Author)</h2>
+            <p class="sectionSubTag">This book is designed for a diverse range of students. It offers comprehensive coverage of principles, applications, and design of Management Information Systems (MIS), catering to the varied MIS courses taught in business schools for diplomas and advanced diplomas in management, B.B.A., M.B.A., undergraduate and postgraduate IT programs, engineering courses, and professional exams.This book also serves managers, industry professionals, and management consultants seeking to gain a practical understanding of MIS.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3Ke6XKj" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/management-information-system.jpg" alt="Management Information System Paperback by Gupta A.K." class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Cost Accounting book Theory & Practice Paperback : 30 April 2014 by Bhabatosh Banerjee (Author)</h2>
+            <p class="sectionSubTag">Principles of Marketing equips students with the skills to build vibrant, interactive consumer communities that integrate products and brands into daily life. The 17th edition has been extensively updated to reflect current trends and technological advancements, showcasing how companies like P&G and McDonald’s, as well as digital leaders such as Apple and Google, leverage technology for competitive advantage. It includes new coverage on customer engagement, mobile and social media, IoT, and big data. The edition emphasizes direct customer involvement, fresh marketing tools, and global marketing growth. With 18 new end-of-chapter cases and updated real-world examples, it helps students apply concepts to practical situations and stay current with evolving marketing communications and content creation.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3yuncAp" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/cost-accounting-theory-and-practice.jpg" alt="Cost Accounting Theory and Practice by Bhabatosh Banerjee" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Principles of Marketing best 17edition Paperback : 31 March 2018 by Gary Armstrong and Philip T. Kotler & Prafulla Agnihotri .</h2>
+            <p class="sectionSubTag">The seventeenth edition of Principles of Marketing is designed to address contemporary marketing challenges by focusing on creating dynamic consumer communities that integrate products and brands into daily life. This edition, updated to reflect current trends and technological advancements, emphasizes the role of technology in gaining competitive advantage, with examples from both traditional giants like Procter & Gamble & McDonald’s & digital leaders . Key features include enhanced coverage of traditional and emerging topics like customer engagement, mobile and social media, IoT, and Big Data. It continues to build on a customer engagement framework, incorporating new tools and practices. The text includes updated Marketing and the Economy features, explores global marketing trends.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3Khik4q" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/principles-of-marketing-pearson.jpg" alt="Principles of Marketing" class="imgFluid">
+        </div>
+
+    </section>
+     <section class="unique">
+        <h2>Why Marketing Management books are important</h2>
+        <p>Marketing Management books hold significant importance for BBA students beyond the basic understanding of marketing principles. By studying Marketing Management, BBA students not only gain knowledge about marketing principles but also develop a complete skill set that enhances their ability to think strategically, make data-driven decisions, and navigate complex business environments. This foundation is crucial for effective management & leadership in any business context.</p></section>
+ 
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Marketing Management - sixth Edition Paperback: 16 Nov 2019 by Rajan Saxena</h2>
+            <p class="sectionSubTag">Marketing Management is tailored to meet the syllabus requirements for marketing courses, blending fundamental marketing concepts with the latest trends and innovations. The thoroughly updated 6th edition explores recent developments in the field, featuring discussions on contemporary topics and groundbreaking marketing efforts. It incorporates modern case thinks about on driving present day companies like Hotstar, Oyo, Airbnb, Netflix, Amazon Prime, and Uber.. The text introduces new sections on digital marketing, social media, and brand definition, while providing comprehensive updates on marketing environment, retail business models, distribution management, and organizational buying behavior. The revised chapters are designed to be more engaging and logically structured, reflecting the evolution of markets in recent years.
+            </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3R0kgSB" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/marketing-management-rajan-saxena.jpg" alt="Marketing Management by Rajan Saxena" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Financial Management: Text, problems and Cases eight Edition Paperback : 11 Aug 2018 by M. Y. Khan and P. K. Jain (Author)</h2>
+            <p class="sectionSubTag">"Financial Management" by Khan and Jain remains a leading resource in the Indian market, offering a step-by-step learning approach supported by numerous solved problems. The 8th edition continues the tradition of clear explanations of theories, concepts, and techniques, now with enhanced Excel integration throughout the text. This book is valuable for both finance managers and management students. Key features include updates aligned with new SEBI guidelines and CSR policy changes, rich pedagogical tools. </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3yrbeaE" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/financial-management-text-problem-cases.jpg" alt="Financial Management by M. Y. Khan,P. K. Jain" class="imgFluid">
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Computer Fundamentals Paperback : 30 Nov 2004 by Priti Sinha, Pradeep K., Sinha</h2>
+            <p class="sectionSubTag">P.K. Sinha's Computer Fundamentals is designed to introduce readers to key concepts in Computer Science and is ideal for introductory IT and Computer Science courses. Its simplicity and clear explanations make it especially useful for beginners. The book includes numerous illustrative diagrams, practical examples, chapter summaries, end-of-chapter questions, and a glossary of important terms, making it a valuable resource for understanding the basics of computer operation. It is also suitable for self-study, thanks to its straightforward language and well-organized content. Major topics covered include Number Systems, Computer Codes, Binary Arithmetic, Boolean Algebra, and Logic Circuits. The book has been updated with new concepts, topics, and classifications, along with refreshed diagrams and lecture notes.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3KecMaz" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/computer-fundamentals-cencepts-systems.jpg" alt="Computer Fundamentals by Priti Sinha, Pradeep K." class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Entrepreneurship Paperback : 30 July 2008 by Madhurima Lall and Shikha Sahai</h2>
+            <p class="sectionSubTag">Entrepreneur and entrepreneurship are closely related, with the entrepreneur being the individual who starts a business and entrepreneurship being the process they use to do so. This book explores the key aspects of entrepreneurship in detail. It is organized into three main sections: the first covers the basics of entrepreneurship, including its definition, types, and the factors driving its emergence. The second section delves into business planning and project report preparation, along with functional plans. The third section addresses financing options, supporting institutions, Small Scale Industries (SSI), the evaluation and rehabilitation of sick industries, and women entrepreneurship. Each chapter begins with an entrepreneur profile to enhance engagement and includes case studies at the end of each part. With its focus on addressing unemployment and fostering income generation,aspiring entrepreneurs and anyone planning to start a business.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/3wQ5BCy" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="https://m.media-amazon.com/images/I/613-9ldy-IL._SY466_.jpg" alt="Entrepreneurship by Madhurima Lall,Shikha Sahai" class="imgFluid">
+        </div>
+    </section>
+    <section class="unique">
+        <h2>Where Research Methodology and Advertising Management deeply use</h2>
+        <p>Research Methodology & Advertising Management in these  applications showcase their deep importance & usefulness across many areas, beyond old business functions. Research Methodology & Advertising Management are integral components of business education and practice. Understanding and leveraging these advanced uses can provide a competitive edge & drive innovation in many fields.</p></section>
+    <section class="section">
+        
+        <div class="paras">
+            <h2 class="sectionTag">Research Methodology: A Guide for Researchers in Management & Social Sciences Paperback : 1 Jan 2006 by Taylor and Bill</h2>
+            <p class="sectionSubTag">This book is designed as a comprehensive text for postgraduate students in commerce, management, and social sciences, and is particularly valuable for first-time researchers. It covers a wide range of research methods used in management and social sciences, with a focus on practical application. The book provides detailed guidance through every stage of the research process, from selecting a research project to finalizing a dissertation, report, or article. It organizes research methodology into three key dimensions: research strategies, research methods, and research data. Key topics include setting up research projects, case studies, surveys, experiments, action research, interviews, questionnaires, observational methods, and documentary sources. It also addresses levels of measurement, and methodologies for analyzing both quantitative and qualitative data. The appendices offer additional resources on statistical measures, significance tests, hypothesis testing, factor analysis, analysis of variance, and sampling theory. </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.in/d/9WJwmoT" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/research-methodology.jpg" alt="Research Methodology by Taylor and Bill" class="imgFluid">
+        </div>
+
+    </section>
+    
+
+    <section class="section left">
+        <div class="paras">
+            <h2 class="sectionTag">Advertising Management, 5 edition Paperback : 1 January 2000 by Meyers and Aaker and Batra</h2>
+            <p class="sectionSubTag">Advertising Management has been thoroughly revised to enhance its practical relevance by incorporating additional examples and case studies. It features updated readings at the end of chapters from leading business and advertising sources, reflecting the latest trends. The book offers a dynamic view of the evolving role of advertising and ad agencies within marketing communications. It includes a new chapter include integrated marketing communications and addressing sales promotion & direct marketing and the public relations. Additionally, a new chapter on global advertising has been introduced to align with current interests in managing international brand communications. This edition equips students and professionals with the tools and insights needed for making effective advertising decisions and capturing the vibrant nature of the industry. </p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4aEnceu" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/advertising-management.jpg" alt="Advertising Management by Meyers,Aaker, Batra" class="imgFluid">
+        </div>
+    </section>
+    
+
+    <section class="section">
+        <div class="paras">
+            <h2 class="sectionTag">Healthcare Management New bookText & Cases Paperback : 1 Jan 2011 by S. K Sarangi</h2>
+            <p class="sectionSubTag">The book Healthcare Management: Text & Cases explores business management theories while focusing on healthcare management practices. It aligns with the syllabi for BBA(H) 6th Semester, BHM and MHM programs at WB Technical University and other institutions across India. The text includes ten chapters that address business management theories and their application in healthcare, covering aspects such as planning, implementation, financing sources, and healthcare agencies. The case studies included provide students with a comprehensive understanding of the subject. The contents cover topics such as the hospital system, healthcare in India, social development, healthcare infrastructure, project management, international perspectives, national health policy, financial management in health services, and health economics and quality management.</p><input type="checkbox" class="expand-btn"></br>
+            <a href="https://amzn.to/4dPEGY5" rel="nofollow"><button class="mybtnn"> Buy on Amazon</button></a>
+        </div>
+        <div class="thumbnail">
+            <img src="../Img/healthcare-management.jpg" alt="Healthcare Management by S. K Sarangi" class="imgFluid">
+        </div>
+    </section>
+    
+</main>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>useful site</h4>
+                    <ul>
+                        <li><a href="https://gemini.google.com/app">gemini(google ai)</a></li>
+                        <li><a href="https://www.wikipedia.org/">Wikipedia</a></li>
+                        <li><a href="https://chat.openai.com/">ChatGPT</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>get help</h4>
+                    <ul>
+                        <li><a href="../link/contact.php">Contact us</a></li>
+                        <li><a href="../link/services.html">User services</a></li>
+                        <li><a href="../link/sitemap.html">Site map</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>security and service</h4>
+                    <ul>
+                        <li><a href="../link/privacypolicy.html">privacy policy</a></li>
+                        <li><a href="../link/terms.html">Terms and conditions</a></li>
+                        <li><a href="../link/AffiliateDisclosure.html">Affiliate Disclosure</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>follow us</h4>
+                    <div class="social-links">
+                        <ul>
+                            <a href="https://www.facebook.com/suvadeep.halder.94?mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.linkedin.com/in/suvadeep-halder-56390729b?trk=contact-info"><i class="fab fa-linkedin-in"></i></a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

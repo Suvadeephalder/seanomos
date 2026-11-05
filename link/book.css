@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{margin: 0;padding: 0;}
+.hello h1{font-size: 35px;text-align: center;color: #520207;padding: 40px 10px;
+    font-weight: bolder; width: 90%;margin: auto;}
+    .unique{width: 80%;margin: auto;font-family: Arial, Helvetica, sans-serif;text-align: justify; padding: 20px 0px;}
+.unique h2{color: rgb(140, 58, 0);}
+.headingp{width: 80%;margin: auto;text-align: center;}
+.section{ display: flex;align-items: center;justify-content: space-evenly;max-width: 80%;margin: auto;font-family: 'ubuntu',sans-serif;margin-bottom: 60px;margin-top: 25px;}
+.left{flex-direction: row-reverse;margin-top: 25px;}
+.paras{padding: 0px 65px;text-align: justify;}
+.imgFluid{height: 350px;width: auto;}
+.sectionTag{font-size: 25px;text-align: left;font-family: 'ubuntu',sans-serif;}
+.mybtnn{width: 150px;height: 50px;border-radius: 15px;font-size: 20px;color: white;background-color: rgb(221, 14, 14);transition: all 0.5s ease;margin-top: 20px;text-align: center;}
+.mybtnn:hover{background-color: rgba(206, 50, 50, 0.8);cursor: pointer;}
+.sectionSubTag{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.thumbnail img{width: 200px;height: auto;border: 2px solid black;border-radius: 26px;}
+@media only screen and (max-width: 1025px){.sectionTag{font-size: 30px;}
+.mybtnn{width: 120px;height: 40px;border-radius: 10px;font-size: 15px;}}
+@media only screen and (max-width: 990px){.section{flex-direction: column-reverse;}
+.thumbnail img{width: 150px;border-radius: 10px;margin: 10px;}
+.paras{padding: 0px 0px;}
+.hello h1{padding-bottom: 50px;font-size: 25px;margin: 5px;}
+.sectionTag{font-size: 20px;}}
+.search {padding: 5px;}
+.search input {width: 100%;border: 1px solid #000;font-size: 15px;background: rgba(61, 68, 57, 0.281);text-transform: capitalize;letter-spacing: 1px;outline: none;padding: 7px;}
+.search input::placeholder {color: green;font-family: 500;font-size: 15px;align-items: center;}
